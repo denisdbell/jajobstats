@@ -13,5 +13,7 @@ sudo apt-get -y install python3 python3-dev
 #Install Scrappy
 pip install scrapy
 
+#Install git
+sudo apt-get -y install git
 
 
