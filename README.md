@@ -1,6 +1,6 @@
 # Jamaican Job Statistics opensource project
 
-The aim of this project is to help Jamaicans make better decisions regarding careers. It will do this by providing statistics on various careers available in Jamaica.[View the link to the full set or requirements and prototype](https://docs.google.com/document/d/1NpSJScPBNkyLHFBY0bRpqz4gKRVSQidZRi5wh72EuSA/edit?usp=sharing)
+The aim of this project is to help Jamaicans make better decisions regarding careers. It will do this by providing statistics on various careers available in Jamaica. View the requirements and prototypes [here](https://docs.google.com/document/d/1NpSJScPBNkyLHFBY0bRpqz4gKRVSQidZRi5wh72EuSA/edit?usp=sharing)
 
 # System Archtecture
 
