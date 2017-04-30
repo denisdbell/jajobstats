@@ -6,3 +6,6 @@ The aim of this project is to help Jamaicans make better decisions regarding car
 
 The diagram below shows the system archtecture:
 
+![alt text](https://github.com/denisdbell/jajobstats/blob/master/System_Architecture.jpg)
+
+
